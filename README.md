@@ -13,7 +13,7 @@ Voici le graphique que nous avons pu générer qui montre la distribution des ga
 
 
 
-[Histogramme](gains_relatifs.png)
+![Histogramme](gains_relatifs.png)
 
 
 
