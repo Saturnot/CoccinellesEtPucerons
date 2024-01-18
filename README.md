@@ -14,6 +14,9 @@ Voici le graphique que nous avons pu générer qui montre la distribution des ga
 
 ![Histogramme](gains_relatifs.png)
 
+![Histogramme](gains_relatifs.png)
+
+
 
 ## Conclusion
 Ce projet explore les différentes stratégies d'une coccinelle pour maximiser sa consommation de pucerons. Les questions abordent la stratégie gloutonne, la programmation dynamique, les gains et la comparaison statistique des stratégies.
